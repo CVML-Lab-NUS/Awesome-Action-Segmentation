@@ -11,24 +11,24 @@ A curated list of related resources for action segmentation. Feel free to contri
 ## Fully Supervised
 - [TCN] [CVPR 2017] Temporal convolutional networks for action segmentation and detection. 
 [[PDF](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lea_Temporal_Convolutional_Networks_CVPR_2017_paper.pdf)] \
-Colin Lea, Michael D. Flynn, Rene Vidal, Austin Reiter, Gregory D. Hager
+*Colin Lea, Michael D. Flynn, Rene Vidal, Austin Reiter, Gregory D. Hager*
 
 - [TDRN] [CVPR 2018] Temporal Deformable Residual Networks for Action Segmentation in Videos. 
 [[PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Lei_Temporal_Deformable_Residual_CVPR_2018_paper.pdf)] \
-Peng Lei, Sinisa Todorovic 
+*Peng Lei, Sinisa Todorovic *
   
 - [MSTCN] [CVPR 2019] MS-TCN: Multi-Stage Temporal Convolutional Network for Action Segmentation. 
 [[PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Abu_Farha_MS-TCN_Multi-Stage_Temporal_Convolutional_Network_for_Action_Segmentation_CVPR_2019_paper.pdf)]
 [[code](https://github.com/yabufarha/ms-tcn)] \
-Yazan Abu Farha, Jurgen Gall
+*Yazan Abu Farha, Jurgen Gall*
   
 - [MSTCN++] [IEEE PAMI 2020] MS-TCN++: Multi-Stage Temporal Convolutional Network for Action Segmentation. 
 [[PDF](https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/stamp/stamp.jsp?tp=&arnumber=9186840)] \
-Li, Shi-Jie, Yazan AbuFarha, Yun Liu, Ming-Ming Cheng, and Juergen Gall
+*Li, Shi-Jie, Yazan AbuFarha, Yun Liu, Ming-Ming Cheng, and Juergen Gall*
   
 - [LCDC] [ICCV 2019] Learning Motion in Feature Space: Locally-Consistent Deformable Convolution Networks for Fine-Grained Action Detection. 
 [[PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Mac_Learning_Motion_in_Feature_Space_Locally-Consistent_Deformable_Convolution_Networks_for_ICCV_2019_paper.pdf)] \
-Khoi-Nguyen C. Mac, Dhiraj Joshi, Raymond A. Yeh, Jinjun Xiong, Rogerio S. Feris, Minh N. Do
+*Khoi-Nguyen C. Mac, Dhiraj Joshi, Raymond A. Yeh, Jinjun Xiong, Rogerio S. Feris, Minh N. Do*
   
 - [Coupled GAN] [WACV 2019] Coupled Generative Adversarial Network for Continuous Fine-Grained Action Segmentation. 
 [[PDF](https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/stamp/stamp.jsp?tp=&arnumber=8658621)] \
@@ -143,7 +143,7 @@ Yaser Souri, Mohsen Fayyaz, Luca Minciullo, Gianpiero Francesca, Juergen Gall
 ### Action set
 - [ActionSet] [CVPR 2018] Action Sets: Weakly Supervised Action Segmentation Without Ordering Constraints.
 [[PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Richard_Action_Sets_Weakly_CVPR_2018_paper.pdf)] 
-[[code][https://github.com/alexanderrichard/action-sets]]\
+[[code](https://github.com/alexanderrichard/action-sets)]\
 Alexander Richard, Hilde Kuehne, Juergen Gall
 
 - [SCT] [CVPR 2020] SCT: Set Constrained Temporal Transformer for Set Supervised Action Segmentation.
@@ -163,7 +163,7 @@ Jun Li, Sinisa Todorovic
 ### Single Frame
 - [Timestamp] [CVPR 2021] Temporal Action Segmentation From Timestamp Supervision
 [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Temporal_Action_Segmentation_From_Timestamp_Supervision_CVPR_2021_paper.pdf)] 
-[[code](https://github.com/ZheLi2020/TimestampActionSeg)]\ 
+[[code](https://github.com/ZheLi2020/TimestampActionSeg)] \ 
 Zhe Li, Yazan Abu Farha, Jurgen Gall
 
 ### Partial Videos
