@@ -3,10 +3,10 @@
 A curated list of related resources for action segmentation. Feel free to contribute!
 
 ## Contents
-- Fully Supervised
-- Unsupervised
-- Weakly Supervised
-- Semi-supervised
+- [Fully Supervised](https://github.com/CVML-Lab-NUS/Awesome-Action-Segmentation#fully-supervised)
+- [Unsupervised](https://github.com/CVML-Lab-NUS/Awesome-Action-Segmentation#unsupervised)
+- [Weakly Supervised](https://github.com/CVML-Lab-NUS/Awesome-Action-Segmentation#weakly-supervsied)
+- [Semi-supervised](https://github.com/CVML-Lab-NUS/Awesome-Action-Segmentation#semi-supervised)
 
 ## Fully Supervised
 - [TCN] [CVPR 2017] Temporal convolutional networks for action segmentation and detection. 
@@ -163,7 +163,7 @@ A curated list of related resources for action segmentation. Feel free to contri
 ### Single Frame
 - [Timestamp] [CVPR 2021] Temporal Action Segmentation From Timestamp Supervision
 [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Temporal_Action_Segmentation_From_Timestamp_Supervision_CVPR_2021_paper.pdf)] 
-[[code](https://github.com/ZheLi2020/TimestampActionSeg)] \ 
+[[code](https://github.com/ZheLi2020/TimestampActionSeg)] \
 *Zhe Li, Yazan Abu Farha, Jurgen Gall*
 
 ### Partial Videos
