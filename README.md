@@ -9,8 +9,9 @@ A curated list of related resources for action segmentation. Feel free to contri
 - Semi-supervised
 
 ## Fully Supervised
-- TCN[61], 
-- TDRN[63], 
+- [TCN][61][CVPR 2017] Temporal convolutional networks for action segmentation and detection. [PDF](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lea_Temporal_Convolutional_Networks_CVPR_2017_paper.pdf)
+Colin Lea, Michael D. Flynn, Rene Vidal, Austin Reiter, Gregory D. Hager.
+- TDRN[63][], 
 - MSTCN[27], 
 - MSTCN++[68], 
 - LCDC[75], 
