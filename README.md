@@ -107,15 +107,18 @@ Piotr BojanowskiRémi LajugieFrancis BachIvan LaptevJean PonceCordelia SchmidJos
 Hilde Kuehne, Alexander Richard, Juergen Gall
 
 - [GMM] [CVPR 2017] Weakly Supervised Action Learning With RNN Based Fine-To-Coarse Modeling.
-[[PDF](https://openaccess.thecvf.com/content_cvpr_2017/papers/Richard_Weakly_Supervised_Action_CVPR_2017_paper.pdf)] \
+[[PDF](https://openaccess.thecvf.com/content_cvpr_2017/papers/Richard_Weakly_Supervised_Action_CVPR_2017_paper.pdf)]
+[[code](https://github.com/alexanderrichard/squirrel)] \
 Alexander Richard, Hilde Kuehne, Juergen Gall
 
 - [TCFPN+ISBA] [CVPR 2018] Weakly-Supervised Action Segmentation With Iterative Soft Boundary Assignment.
-[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ding_Weakly-Supervised_Action_Segmentation_CVPR_2018_paper.pdf)] \
+[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ding_Weakly-Supervised_Action_Segmentation_CVPR_2018_paper.pdf)]
+[[code](https://github.com/ld-ing/TCFPN-ISBA)] \
 Li Ding, Chenliang Xu
 
 - [ECTC] [ECCV 2016] Connectionist Temporal Modeling for Weakly Supervised Action Labeling.
-[[PDF](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_9)] \
+[[PDF](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_9)]
+[[code](https://github.com/daahuang/lasagne-ectc)] \
 De-An Huang, Li Fei-Fei, Juan Carlos Niebles
 
 - NN-Viterbi [CVPR 2018] NeuralNetwork-Viterbi: A Framework for Weakly Supervised Video Learning
@@ -128,21 +131,40 @@ Alexander Richard, Hilde Kuehne, Ahsan Iqbal, Juergen Gall
 Chien-Yi Chang, De-An Huang, Yanan Sui, Li Fei-Fei, Juan Carlos Niebles
 
 - [CDFL] [ICCV 2019] Weakly Supervised Energy-Based Learning for Action Segmentation.
-[[PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Weakly_Supervised_Energy-Based_Learning_for_Action_Segmentation_ICCV_2019_paper.pdf)] \
+[[PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Weakly_Supervised_Energy-Based_Learning_for_Action_Segmentation_ICCV_2019_paper.pdf)]
+[[code](https://github.com/JunLi-Galios/CDFL)] \
 Jun Li, Peng Lei, Sinisa Todorovic
 
 - [MuCon] [TPAMI 2021] Fast Weakly Supervised Action Segmentation Using Mutual Consistency
-[[PDF](https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/stamp/stamp.jsp?tp=&arnumber=9454332)] \
+[[PDF](https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/stamp/stamp.jsp?tp=&arnumber=9454332)] 
+[[code](https://github.com/yassersouri/MuCon)]\
 Yaser Souri, Mohsen Fayyaz, Luca Minciullo, Gianpiero Francesca, Juergen Gall
 
 ### Action set
-- ActionSet[86], 
-- SCT[32], 
-- SCV[65], 
-- ACV[67]
+- [ActionSet] [CVPR 2018] Action Sets: Weakly Supervised Action Segmentation Without Ordering Constraints.
+[[PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Richard_Action_Sets_Weakly_CVPR_2018_paper.pdf)] 
+[[code][https://github.com/alexanderrichard/action-sets]]\
+Alexander Richard, Hilde Kuehne, Juergen Gall
+
+- [SCT] [CVPR 2020] SCT: Set Constrained Temporal Transformer for Set Supervised Action Segmentation.
+[[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fayyaz_SCT_Set_Constrained_Temporal_Transformer_for_Set_Supervised_Action_Segmentation_CVPR_2020_paper.pdf)] 
+[[code](https://github.com/MohsenFayyaz89/SCT)]\
+Mohsen Fayyaz, Jurgen Gall
+
+- [SCV] [CVPR 2020] Set-Constrained Viterbi for Set-Supervised Action Segmentation.
+[[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Set-Constrained_Viterbi_for_Set-Supervised_Action_Segmentation_CVPR_2020_paper.pdf)] \
+Jun Li, Sinisa Todorovic
+
+- [ACV] [CVPR 2021] Anchor-Constrained Viterbi for Set-Supervised Action Segmentation.
+[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Anchor-Constrained_Viterbi_for_Set-Supervised_Action_Segmentation_CVPR_2021_paper.pdf)] \
+Jun Li, Sinisa Todorovic
 
 ## Semi-supervised
 ### Single Frame
-- Timestamp[73]
+- [Timestamp] [CVPR 2021] Temporal Action Segmentation From Timestamp Supervision
+[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Temporal_Action_Segmentation_From_Timestamp_Supervision_CVPR_2021_paper.pdf)] 
+[[code](https://github.com/ZheLi2020/TimestampActionSeg)]\ 
+Zhe Li, Yazan Abu Farha, Jurgen Gall
+
 ### Partial Videos
 - 
