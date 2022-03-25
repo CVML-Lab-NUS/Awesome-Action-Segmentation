@@ -3,10 +3,12 @@
 A curated list of related resources for action segmentation. Feel free to contribute!
 
 ## Contents
-- [Fully Supervised](https://github.com/CVML-Lab-NUS/Awesome-Action-Segmentation#fully-supervised)
-- [Unsupervised](https://github.com/CVML-Lab-NUS/Awesome-Action-Segmentation#unsupervised)
-- [Weakly Supervised](https://github.com/CVML-Lab-NUS/Awesome-Action-Segmentation#weakly-supervsied)
-- [Semi-supervised](https://github.com/CVML-Lab-NUS/Awesome-Action-Segmentation#semi-supervised)
+- Papers
+  - [Fully Supervised](https://github.com/CVML-Lab-NUS/Awesome-Action-Segmentation#fully-supervised)
+  - [Unsupervised](https://github.com/CVML-Lab-NUS/Awesome-Action-Segmentation#unsupervised)
+  - [Weakly Supervised](https://github.com/CVML-Lab-NUS/Awesome-Action-Segmentation#weakly-supervsied)
+  - [Semi-supervised](https://github.com/CVML-Lab-NUS/Awesome-Action-Segmentation#semi-supervised)
+- Datasets
 
 ## Fully Supervised
 - [TCN] [CVPR 2017] Temporal convolutional networks for action segmentation and detection. 
@@ -168,3 +170,12 @@ A curated list of related resources for action segmentation. Feel free to contri
 
 ### Partial Videos
 - 
+
+## Datasets
+| Dataset  | duration | #videos | #segments | #activity | #action | domain | source | year | view |
+| -------- | -------- | ------- | ------- |------- |------- |------- |------- |------- |------- |
+| [GTEA](https://ai.stanford.edu/~alireza/publication/CVPR11.pdf)  | 0.4h | 28 | 0.5K | 7 | 71 | cooking | R | 2011 | egocentric | 
+| [50Salads](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.371.8684&rep=rep1&type=pdf) | 5.5h | 50 | 0.9K | 1 | 17 | cooking | R | 2013 | top-view |
+| [Breakfast](https://openaccess.thecvf.com/content_cvpr_2014/papers/Kuehne_The_Language_of_2014_CVPR_paper.pdf) | 77h | 1712 | 11K | 10 | 48 | cooking | R | 2014 | 3rd person |  
+| [Assembly101]()  |  |  |  |  |  |  |  |  |  |
+
