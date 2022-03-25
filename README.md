@@ -12,7 +12,8 @@ A curated list of related resources for action segmentation. Feel free to contri
 
 ## Fully Supervised
 - [TCN] [CVPR 2017] Temporal convolutional networks for action segmentation and detection. 
-[[PDF](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lea_Temporal_Convolutional_Networks_CVPR_2017_paper.pdf)] \
+[[PDF](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lea_Temporal_Convolutional_Networks_CVPR_2017_paper.pdf)] 
+[[code](https://github.com/colincsl/TemporalConvolutionalNetworks)] \
 *Colin Lea, Michael D. Flynn, Rene Vidal, Austin Reiter, Gregory D. Hager*
 
 - [TDRN] [CVPR 2018] Temporal Deformable Residual Networks for Action Segmentation in Videos. 
@@ -25,8 +26,9 @@ A curated list of related resources for action segmentation. Feel free to contri
 *Yazan Abu Farha, Jurgen Gall*
   
 - [MSTCN++] [IEEE PAMI 2020] MS-TCN++: Multi-Stage Temporal Convolutional Network for Action Segmentation. 
-[[PDF](https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/stamp/stamp.jsp?tp=&arnumber=9186840)] \
-*Li, Shi-Jie, Yazan AbuFarha, Yun Liu, Ming-Ming Cheng, and Juergen Gall*
+[[PDF](https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/stamp/stamp.jsp?tp=&arnumber=9186840)] 
+[[code](https://github.com/sj-li/MS-TCN2)] \
+*Shijie Li, Yazan Abu Farha, Yun Liu, Ming-Ming Cheng, Juergen Gall*
   
 - [LCDC] [ICCV 2019] Learning Motion in Feature Space: Locally-Consistent Deformable Convolution Networks for Fine-Grained Action Detection. 
 [[PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Mac_Learning_Motion_in_Feature_Space_Locally-Consistent_Deformable_Convolution_Networks_for_ICCV_2019_paper.pdf)] \
@@ -34,7 +36,7 @@ A curated list of related resources for action segmentation. Feel free to contri
   
 - [Coupled GAN] [WACV 2019] Coupled Generative Adversarial Network for Continuous Fine-Grained Action Segmentation. 
 [[PDF](https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/stamp/stamp.jsp?tp=&arnumber=8658621)] \
-*Gammulle, Harshala, Tharindu Fernando, Simon Denman, Sridha Sridharan, and Clinton Fookes*
+*Harshala Gammulle, Tharindu Fernando, Simon Denman, Sridha Sridharan, Clinton Fookes*
    
 - [SSTDA] [CVPR 2020] Action Segmentation With Joint Self-Supervised Temporal Domain Adaptation. 
 [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Action_Segmentation_With_Joint_Self-Supervised_Temporal_Domain_Adaptation_CVPR_2020_paper.pdf)]
@@ -42,7 +44,8 @@ A curated list of related resources for action segmentation. Feel free to contri
 *Chen, Min-Hung, Baopu Li, Yingze Bao, Ghassan AlRegib, and Zsolt Kira*
 
 - [BilinearTCN] [arXiv:1906.01004] Frontal Low-rank Random Tensors for Fine-grained Action Segmentation. 
-[[PDF](https://arxiv.org/pdf/1906.01004.pdf)] \
+[[PDF](https://arxiv.org/pdf/1906.01004.pdf)] 
+[[code](https://github.com/yz-cnsdqz/ms-tcn-bilinear)] \
 *Zhang, Yan, Krikamol Muandet, Qianli Ma, Heiko Neumann, and Siyu Tang*
 
 - [GTRM] [CVPR 2020] Improving Action Segmentation via Graph-Based Temporal Reasoning. 
@@ -55,7 +58,8 @@ A curated list of related resources for action segmentation. Feel free to contri
 *Zhenzhi Wang, Ziteng Gao, Limin Wang, Zhifeng Li, Gangshan Wu*
   
 - [ASRF] [WACV 2021] Alleviating Over-Segmentation Errors by Detecting Action Boundaries. 
-[[PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Ishikawa_Alleviating_Over-Segmentation_Errors_by_Detecting_Action_Boundaries_WACV_2021_paper.pdf)] \
+[[PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Ishikawa_Alleviating_Over-Segmentation_Errors_by_Detecting_Action_Boundaries_WACV_2021_paper.pdf)] 
+[[code](https://github.com/yiskw713/asrf)] \
 *Yuchi Ishikawa, Seito Kasai, Yoshimitsu Aoki, Hirokatsu Kataoka*
 
 ## Unsupervised
@@ -101,8 +105,9 @@ A curated list of related resources for action segmentation. Feel free to contri
 
 ### Transcript
 - [ECCV 2014] Weakly Supervised Action Labeling in Videos under Ordering Constraints.
-[[PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-319-10602-1_41.pdf)] \
-*Piotr BojanowskiRémi LajugieFrancis BachIvan LaptevJean PonceCordelia SchmidJosef Sivic*
+[[PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-319-10602-1_41.pdf)] 
+[[code](https://github.com/piotr-bojanowski/action-ordering)] \
+*Piotr Bojanowski, Rémi Lajugie, Francis Bach, Ivan Laptev, Jean Ponce, Cordelia Schmid, Josef Sivic*
 
 - [CVIU 2017] Weakly supervised learning of actions from transcripts.
 [[PDF](https://arxiv.org/pdf/1610.02237.pdf)] \
@@ -172,10 +177,10 @@ A curated list of related resources for action segmentation. Feel free to contri
 - 
 
 ## Datasets
-| Dataset  | duration | #videos | #segments | #activity | #action | domain | source | year | view |
-| -------- | -------- | ------- | ------- |------- |------- |------- |------- |------- |------- |
-| [GTEA](https://ai.stanford.edu/~alireza/publication/CVPR11.pdf)  | 0.4h | 28 | 0.5K | 7 | 71 | cooking | R | 2011 | egocentric | 
-| [50Salads](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.371.8684&rep=rep1&type=pdf) | 5.5h | 50 | 0.9K | 1 | 17 | cooking | R | 2013 | top-view |
-| [Breakfast](https://openaccess.thecvf.com/content_cvpr_2014/papers/Kuehne_The_Language_of_2014_CVPR_paper.pdf) | 77h | 1712 | 11K | 10 | 48 | cooking | R | 2014 | 3rd person |  
-| [Assembly101]()  |  |  |  |  |  |  |  |  |  |
+| Dataset  | duration | #videos | #segments | #activity | #action | domain | source | year | view | paper |
+| -------- | -------- | ------- | ------- |------- |------- |------- |------- |------- |------- | -------|
+| [GTEA](https://ai.stanford.edu/~alireza/GTEA/)  | 0.4h | 28 | 0.5K | 7 | 71 | cooking | R | 2011 | egocentric | [PDF](https://ai.stanford.edu/~alireza/publication/CVPR11.pdf) | 
+| [50Salads](https://cvip.computing.dundee.ac.uk/datasets/foodpreparation/50salads/) | 5.5h | 50 | 0.9K | 1 | 17 | cooking | R | 2013 | top-view | [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.371.8684&rep=rep1&type=pdf) |
+| [Breakfast](https://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset/) | 77h | 1712 | 11K | 10 | 48 | cooking | R | 2014 | 3rd person | [PDF](https://openaccess.thecvf.com/content_cvpr_2014/papers/Kuehne_The_Language_of_2014_CVPR_paper.pdf) |
+| [Assembly101]()  |  |  |  |  |  |  |  |  |  | [PDF]() |
 
